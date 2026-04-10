@@ -15,7 +15,7 @@
         "cors": "2.8.5",
         "dotenv": "^16.4.7",
         "express": "^4.21.2",
-        "mathjs": "^14.2.0",
+        "mathjs": "^15.2.0",
         "node-fetch": "^2.7.0",
         "prettier": "^3.4.2",
         "qrcode": "^1.5.4",
