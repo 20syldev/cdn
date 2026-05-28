@@ -1,0 +1,2 @@
+prod:::user@192.168.1.10:::Production server:::ssh:::
+staging:::user@192.168.1.20:::Staging server:::ssh:::
